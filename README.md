@@ -23,7 +23,13 @@
 		    'rofi' 'dunst' 'xsel' 'xdotool' 'mpd'
 		    'mpd' 'mpc' 'jq' 'lxappearance' 'maim'           
 		    'maim' 'xclip' 'viewnior' 'feh' 'xfce4-power-manager' 
-		    'xfce4-power-manager' 'xsettingsd' 'xorg-xsetroot' 'wmname'   
+		    'xfce4-power-manager' 'xsettingsd' 'xorg-xsetroot' 'wmname'  
+	
+	
+	
+debian：
+	            apt install -y bspwm alacritty thunar geany gpick  sxhkd playerctl pavucontrol rofi dunst rofi dunst xsel xdotool mpd    mpd mpc jq lxappearance maim  maim xclip viewnior feh xfce4-power-manager xfce4-power-manager xsettingsd xorg-xsetroot wmname
+	
                          
 	           	          
    * AUR OR RXD_ARCH_REPO :
